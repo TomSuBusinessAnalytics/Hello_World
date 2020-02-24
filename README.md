@@ -2,8 +2,8 @@
 
 **Table of content**
 <ol>
-><li>Project title</li>
-><li>Description</li>
+<li>Project title</li>
+<li>Description</li>
 <li>How to Run Program</li>
 <li>Files Used</li>
 </ol>
