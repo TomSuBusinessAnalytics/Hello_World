@@ -1,21 +1,23 @@
 # Hello_World
 
-**#Table of content**
+**Table of content**
 
 1. project title 
 2. Description
 3. How to Run Program
 4. Files Used
-<ol>
+'<ol>
 <li>project title</li>
 <li>Description</li>
 <li>How to Run Program</li>
 <li>Files Used</li>
-</ol>
-**#Porject Title**
+</ol>'
+**Porject Title**
+
 Hello_World Sample
 
-**#Description**
+**Description**
+
 A practice using the GitHub to create sample repository
 
 
