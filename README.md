@@ -1,16 +1,21 @@
 # Hello_World
-First sample repository
-**bold text#Table of content**
->blockquote
+
+**#Table of content**
+
 1. project title 
 2. Description
 3. How to Run Program
 4. Files Used
-
->blockquote**bold text#Porject Title**
+<ol>
+<li>project title</li>
+<li>Description</li>
+<li>How to Run Program</li>
+<li>Files Used</li>
+</ol>
+**#Porject Title**
 Hello_World Sample
 
->blockquote**bold text#Description**
+**#Description**
 A practice using the GitHub to create sample repository
 
 
