@@ -1,17 +1,9 @@
 # Hello_World
 
-[**Table of content**] (<ol>
-<li>Project title</li>
-<li>Description</li>
-<li>How to Run Program</li>
-<li>Files Used</li>
-</ol>)
-<ol>
-<li>Project title</li>
-<li>Description</li>
-<li>How to Run Program</li>
-<li>Files Used</li>
-</ol>
+**Table of content**
+- [project Title]
+- Description
+- File Used
 
 **Porject Title**
 
