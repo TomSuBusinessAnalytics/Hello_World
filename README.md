@@ -1,22 +1,22 @@
 # Hello_World
 
 [**Table of content**]
-(<ol>
-[<li>Project title</li>]
+<ol>
+<li>Project title</li>
 <li>Description</li>
 <li>How to Run Program</li>
 <li>Files Used</li>
-</ol>)
+</ol>
 
-(**Porject Title**)
+[**Porject Title**]
 
 Hello_World Sample
 
-**Description**
+[**Description**]
 
 A practice using the GitHub to create sample repository
 
-**File Used**
+[**File Used**]
 
 Currently no external data files was used.
 
