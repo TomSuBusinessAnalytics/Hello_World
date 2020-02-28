@@ -1,7 +1,7 @@
 # Hello_World
 
 **Table of content**
-- [project Title]
+- project Title
 - Description
 - File Used
 
